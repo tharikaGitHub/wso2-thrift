@@ -1,3 +1,7 @@
+# wso2-thrift
+
+This is a fork of apache/thrift repository which is forked at the tag 0.16.0.
+
 Apache Thrift
 =============
 
